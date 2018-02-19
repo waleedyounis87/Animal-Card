@@ -1,0 +1,37 @@
+/* add your CSS here */
+.border_card{
+    background-color: #ffce00;
+    font-family:serif;
+    font-size: 18px;
+    width: 300px;
+    padding: 10px 15px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    box-shadow: 5px 10px #efefef;
+}
+.info{
+    padding: 10px 10px;
+    border: 1px solid #000;
+    border-radius: 5px;
+}
+h3{
+    color: #b2b2b2;
+}
+img{
+    width: 300px;
+    border: 1px solid #000;
+    border-radius: 5px;
+}
+ul{
+    margin-bottom: 10px;
+    margin-left: -40px
+}
+ul li{
+    list-style: none;
+    margin: 2px auto
+}
+ul li span{
+    color: #b2b2b2;
+    font-size: 18px;
+    font-weight: 800;
+}
